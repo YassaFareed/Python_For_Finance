@@ -1,0 +1,40 @@
+Variability is best measure of risk
+ 
+calculating the standard deviation would tell how much dispertion can occur 
+Higher the standard deviation greater the risk
+
+Variance = Measure of dispersion of a set of date points around the mean
+
+
+
+-There is a relationship b/w prices of companies, which will help us optimize investemnt portfolios 
+ Eg: people can stop buying car but they cant stop buying food from supermarket. 
+
+
+1 -> perfectly positively correlated
+0 -> Neutral
+-1 -> perfectly negatively correlated
+
+cor(returns) 	!=	 cor(prices) = they have diff implication
+reflects the		focuses on 	
+dependence		stock price levels	
+b/w prices
+at diff times
+and focuses on
+returns of your 
+portfolio
+
+- we should not always multiply by 250 b/c it is done for annual return		
+
+Till now we saw portfolio rate of return
+portfolio variance not calculated yet
+so:
+portfolio is the combination of many stocks so we need to calculate variance (see portfolio_variance.jpg) the formula would slightly be different.
+if a portfolio contains 2 or more stocks then the its risk(variance) would be correlation b/w the 2 stocks and variance of the 2 stocks
+
+-Systematic/un-diversifiable risk -> component depends on the variance of each individual security. It is also known as systematic risk
+There are number of systematic risk that cannot be diversified Eg: recession of economy, low consumer spending, wars, forces of nature etc.
+-Idiosyncratic/Diversifiable risk -> also known as company specific risk. Driven by company-specific event
+Diversifiable risk can be eliminated if we invest in non-correlated assets. Eg: automotive, construction, energy, tech etc.
+Investemnet vehicles tracking indices like S&P 500 are well diversified. The only risk they are exposed to is systematic risk
+Some institutional investors go even further and try to build portfolios of securities from different countries which further reduces the correlation

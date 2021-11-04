@@ -1,0 +1,18 @@
+- We use variance as the measure of varaiablity 
+- Total sum of squares (TSS) provides a sense of variability of data  (TSS = E(x-~x)^2)
+- SSR is the sum of squared residual to obtain regression coeff (best fitting line minimizes sum of squared residuals) -> The coefficients found with this technque is called OLS estimates
+Y = alpha + beta x + error
+
+total sum of squares (TSS)
+R^2 = 1 - ssr/tss  (can range b/w 0 to 100%)
+
+OLS 
+
+
+
+1st table
+If r^2 > 30% it is explaining more (good explainatory power) => 0.677 house size can explain 68% of the house prices
+
+2nd table
+const first row => c
+second row first col => it is gradient/slope, on the right its std error

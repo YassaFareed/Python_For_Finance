@@ -1,0 +1,25 @@
+ror = rate of returns
+
+#if there are more assets then we use simple ror
+#if one then log returns
+
+
+Portfolio of securities and their ror calculations
+# For multiple assets
+	rate of return for a security * weight in portfolio
+
+
+
+Market index(basket composed of many stocks) provides idea how a given stock market is performing 
+It represents large enough samples of overall num of stocks in a market
+Good proxy for developemnt of market 
+Some famous indices are => 
+	standard&poor's => 500 public large stocks, market cap weighted index 
+	Dowjones -> 30 public large stocks equally weighted
+	nasdaqq => grouped securities, IT companies, ror of tech stocks 
+          
+market	ticker
+S&P500 = ^GSPC
+NASDAQ = ^IXIC
+German DAX = ^GDAXI
+London FTSE = ^FTSE
