@@ -1,0 +1,15 @@
+Markowitz proved the existence of an efficient set of protfolios. (check calculations in excel file)
+
+The combination of securities with little correlation allows investors 
+to optimize their retruns without assuming additional risk
+Diversified portfolio: higher returns, No additional risk
+
+0.3 correlation is far from 1, and we can benefit from diversification effect
+
+Lower the correaltion coeff greater the diversification affect that combination of 2 stocks will have
+
+There is a set of eff portfolios that can provide a higher expected rate of return for same or even
+lower risk. This group of portfolios are called efficicent frontier. 
+
+Points below efficient frontier represent inefficient portfolios as for each we can find an alternative
+portfolios with same stand dev and greater returns!!!
