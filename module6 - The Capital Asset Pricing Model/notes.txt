@@ -1,0 +1,14 @@
+The market portfolio:
+Superior risk return and optimal in terms of risk
+A combination of all possible investment in the world
+
+CAPM assumes the existence of risk-free asset. An investment with 0 risk. (we will invest no matter we got low return)
+
+The risk-free asset: (ZERO RISK AND LOWER RETURN)
+Why should we assume the risk-free rate has a lower expected rate of return?
+In efficient markets, investors are only compensated for the added risk they are willing to bear
+
+See the image:
+Investors will allocate their money b/w the risk-free and market portfolio
+
+Beta measures the market risk that cannot be avoided through diversification
