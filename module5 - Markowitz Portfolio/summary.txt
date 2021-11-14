@@ -13,3 +13,6 @@ lower risk. This group of portfolios are called efficicent frontier.
 
 Points below efficient frontier represent inefficient portfolios as for each we can find an alternative
 portfolios with same stand dev and greater returns!!!
+
+
+***In exercise we will see the 1000 combination of portfolio***
